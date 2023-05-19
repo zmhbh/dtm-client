@@ -1,4 +1,4 @@
-module github.com/dtm-labs/client
+module github.com/zmhbh/dtm-client
 
 go 1.16
 
